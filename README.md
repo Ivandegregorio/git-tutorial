@@ -18,3 +18,7 @@ git tag -1
 git checkout Capitulo-X
 
 Este repositorio conserva todo el tutorial de Git. Se encuentra clasificado por capitulos almacenados en etiquetas (tags), para poder observar estos cambios debes revisar el log.
+
+
+Recuerden que para la explicación completa de este curso se pueden dirigir a
+[codehero.co](http://codehero.co) o directamente a [codehero.co/series/git-desde-cero](http://codehero.co/series/git-desde-cer
